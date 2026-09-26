@@ -1,8 +1,8 @@
 # Password Strength Checker 🔐
 
-A simple Python-based password security checker that evaluates a password using several basic security rules.
+A simple Python-based password security checker that evaluates passwords using basic security rules and pattern detection.
 
-This project was created as a beginner cybersecurity project to practice Python programming and understand some basic password security concepts.
+This project was created as a beginner cybersecurity project to practice Python programming and understand basic password security concepts.
 
 ## Features
 
@@ -23,6 +23,10 @@ It then:
 - Provides a password rating
 - Shows security warnings
 - Gives recommendations for improving the password
+
+## Demo
+
+![Password Strength Checker Demo](screenshots/password-checker-demo.png)
 
 ## Example
 
